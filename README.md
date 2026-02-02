@@ -377,20 +377,6 @@ Invalid token
 
 ---
 
-## 🤝 Contributing
-
-Feel free to fork this project and submit pull requests for improvements!
-
----
-
-## 📄 License
-
-This project is open source and available under the MIT License.
-
----
-
-## 📧 Support
-
 For issues or questions, please contact the project maintainer or create an issue in the repository.
 
 ---
