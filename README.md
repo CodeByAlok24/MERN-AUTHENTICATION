@@ -2,20 +2,6 @@
 
 A full-stack web application built with **MongoDB**, **Express**, **React**, and **Node.js** (MERN) that provides user authentication with login and registration functionality.
 
-## 📋 Table of Contents
-
-- [Features](#features)
-- [Prerequisites](#prerequisites)
-- [Project Structure](#project-structure)
-- [Installation](#installation)
-- [Dependencies](#dependencies)
-- [Environment Setup](#environment-setup)
-- [Running the Application](#running-the-application)
-- [API Endpoints](#api-endpoints)
-- [Project Details](#project-details)
-
----
-
 ## ✨ Features
 
 - **User Registration**: Create a new account with username, email, and password
